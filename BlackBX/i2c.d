@@ -1,0 +1,1 @@
+ i2c.d  i2c.p1:  i2c.c main.h init_i2c_config.h i2c.h pic_specific.h eeprom.h

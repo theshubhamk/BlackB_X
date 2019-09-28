@@ -1,0 +1,1 @@
+ main.d  main.p1:  main.c ds1307.h clcd.h main.h init_i2c_config.h i2c.h matrix_keypad.h adc.h pic_specific.h eeprom.h timer0.h
